@@ -1,0 +1,267 @@
+// !$*UTF8*$!
+{
+	15264A06158680EB00F04CC2 /* PersonListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 378}}";
+			sepNavSelRange = "{549, 0}";
+			sepNavVisRange = "{164, 385}";
+		};
+	};
+	15264A07158680EB00F04CC2 /* PersonListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {768, 1680}}";
+			sepNavSelRange = "{581, 0}";
+			sepNavVisRange = "{1566, 354}";
+		};
+	};
+	15264A0D1586810200F04CC2 /* PhotoListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 434}}";
+			sepNavSelRange = "{587, 0}";
+			sepNavVisRange = "{259, 388}";
+		};
+	};
+	15264A0E1586810200F04CC2 /* PhotoListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 1890}}";
+			sepNavSelRange = "{1580, 0}";
+			sepNavVisRange = "{2596, 339}";
+		};
+	};
+	15264AC915869EE700F04CC2 /* PhotoDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 294}}";
+			sepNavSelRange = "{311, 12}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	15264ACA15869EE700F04CC2 /* PhotoDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 663}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{549, 412}";
+		};
+	};
+	152A8D8318E9F35B000A2559 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264ACA15869EE700F04CC2 /* PhotoDetailViewController.m */;
+		name = "PhotoDetailViewController.m: 27";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 549;
+	};
+	1583A29616C1AE1A001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264ACA15869EE700F04CC2 /* PhotoDetailViewController.m */;
+		name = "PhotoDetailViewController.m: 27";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 460;
+	};
+	158EA9EC15867D6100EFEA13 /* Paparazzi1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Paparazzi1;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	158EAA0015867D7D00EFEA13 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	158EAA0115867D7D00EFEA13 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	15A344AC15BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Paparazzi1AppDelegate.h */;
+		name = "Paparazzi1AppDelegate.h: 16";
+		rLen = 243;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 133;
+	};
+	15A344AD15BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Paparazzi1AppDelegate.m */;
+		name = "Paparazzi1AppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1596;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 303;
+	};
+	15A344AE15BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264A06158680EB00F04CC2 /* PersonListViewController.h */;
+		name = "PersonListViewController.h: 27";
+		rLen = 0;
+		rLoc = 549;
+		rType = 0;
+		vrLen = 385;
+		vrLoc = 164;
+	};
+	15A344AF15BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264A07158680EB00F04CC2 /* PersonListViewController.m */;
+		name = "PersonListViewController.m: 24";
+		rLen = 0;
+		rLoc = 581;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 1566;
+	};
+	15A344B015BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264A0D1586810200F04CC2 /* PhotoListViewController.h */;
+		name = "PhotoListViewController.h: 26";
+		rLen = 0;
+		rLoc = 587;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 259;
+	};
+	15A344B115BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264A0E1586810200F04CC2 /* PhotoListViewController.m */;
+		name = "PhotoListViewController.m: 45";
+		rLen = 0;
+		rLoc = 1580;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 2596;
+	};
+	15A344B415BDD33E00947F56 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15264AC915869EE700F04CC2 /* PhotoDetailViewController.h */;
+		name = "PhotoDetailViewController.h: 16";
+		rLen = 12;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* Paparazzi1AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 378}}";
+			sepNavSelRange = "{329, 243}";
+			sepNavVisRange = "{133, 500}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Paparazzi1AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 742}}";
+			sepNavSelRange = "{1596, 0}";
+			sepNavVisRange = "{303, 1046}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Paparazzi1 */ = {
+		activeExec = 0;
+		executables = (
+			158EA9EC15867D6100EFEA13 /* Paparazzi1 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 158EA9EC15867D6100EFEA13 /* Paparazzi1 */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Paparazzi1 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Paparazzi1 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 158EAA0115867D7D00EFEA13 /* Code sense */;
+		executables = (
+			158EA9EC15867D6100EFEA13 /* Paparazzi1 */,
+		);
+		expressions = (
+			photoDictionary,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 417985367;
+			PBXWorkspaceStateSaveDate = 417985367;
+		};
+		perUserProjectItems = {
+			152A8D8318E9F35B000A2559 /* PBXTextBookmark */ = 152A8D8318E9F35B000A2559 /* PBXTextBookmark */;
+			1583A29616C1AE1A001CB82F /* PBXTextBookmark */ = 1583A29616C1AE1A001CB82F /* PBXTextBookmark */;
+			15A344AC15BDD33E00947F56 /* PBXTextBookmark */ = 15A344AC15BDD33E00947F56 /* PBXTextBookmark */;
+			15A344AD15BDD33E00947F56 /* PBXTextBookmark */ = 15A344AD15BDD33E00947F56 /* PBXTextBookmark */;
+			15A344AE15BDD33E00947F56 /* PBXTextBookmark */ = 15A344AE15BDD33E00947F56 /* PBXTextBookmark */;
+			15A344AF15BDD33E00947F56 /* PBXTextBookmark */ = 15A344AF15BDD33E00947F56 /* PBXTextBookmark */;
+			15A344B015BDD33E00947F56 /* PBXTextBookmark */ = 15A344B015BDD33E00947F56 /* PBXTextBookmark */;
+			15A344B115BDD33E00947F56 /* PBXTextBookmark */ = 15A344B115BDD33E00947F56 /* PBXTextBookmark */;
+			15A344B415BDD33E00947F56 /* PBXTextBookmark */ = 15A344B415BDD33E00947F56 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 158EAA0015867D7D00EFEA13 /* Source Control */;
+		userBuildSettings = {
+			SYMROOT = /Users/jackr/Documents/build/Paparazzi1;
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 252}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{71, 278}";
+		};
+	};
+}

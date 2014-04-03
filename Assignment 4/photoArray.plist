@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3056.JPG</string>
+		<key>phototitle</key>
+		<string>Let's Eat</string>
+		<key>owner</key>
+		<string>Al</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3061.JPG</string>
+		<key>phototitle</key>
+		<string>Got Milk</string>
+		<key>owner</key>
+		<string>Josh</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3064.JPG</string>
+		<key>phototitle</key>
+		<string>Chocolate Kid</string>
+		<key>owner</key>
+		<string>Josh</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3065.JPG</string>
+		<key>phototitle</key>
+		<string>The Toothbrush</string>
+		<key>owner</key>
+		<string>Josh</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3066.JPG</string>
+		<key>phototitle</key>
+		<string>Eat Some More</string>
+		<key>owner</key>
+		<string>Josh</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3068.JPG</string>
+		<key>phototitle</key>
+		<string>More Cake</string>
+		<key>owner</key>
+		<string>Me</string>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>IMG_3069.JPG</string>
+		<key>phototitle</key>
+		<string>Even More Cake</string>
+		<key>owner</key>
+		<string>Me</string>
+	</dict>
+</array>
+</plist>

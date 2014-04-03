@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	152A8D6F18E9F314000A2559 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15918BBF157A9DA4007AA243 /* Controller.m */;
+		name = "Controller.m: 50";
+		rLen = 0;
+		rLoc = 1205;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 205;
+	};
+	154249A618EA3B5700292212 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HelloPolyAppDelegate.m */;
+		name = "HelloPolyAppDelegate.m: 23";
+		rLen = 63;
+		rLoc = 403;
+		rType = 0;
+		vrLen = 206;
+		vrLoc = 0;
+	};
+	154249A718EA3B5700292212 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HelloPolyAppDelegate.h */;
+		name = "HelloPolyAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 250;
+		vrLoc = 0;
+	};
+	154249A818EA3B5700292212 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15918BBF157A9DA4007AA243 /* Controller.m */;
+		name = "Controller.m: 50";
+		rLen = 0;
+		rLoc = 1205;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 205;
+	};
+	15918BBE157A9DA4007AA243 /* Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{123, 8}";
+			sepNavVisRange = "{0, 348}";
+		};
+	};
+	15918BBF157A9DA4007AA243 /* Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {621, 702}}";
+			sepNavSelRange = "{1205, 0}";
+			sepNavVisRange = "{205, 298}";
+		};
+	};
+	15918BC1157A9DB0007AA243 /* PolygonShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {714, 1386}}";
+			sepNavSelRange = "{440, 183}";
+			sepNavVisRange = "{184, 669}";
+		};
+	};
+	15918BC2157A9DB0007AA243 /* PolygonShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	15AB0912159136AB006CBC49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15918BC1157A9DB0007AA243 /* PolygonShape.m */;
+		name = "PolygonShape.m: 19";
+		rLen = 183;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 184;
+	};
+	15AB0913159136AB006CBC49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15918BC2157A9DB0007AA243 /* PolygonShape.h */;
+		name = "PolygonShape.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	15AB0914159136AB006CBC49 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15918BBE157A9DA4007AA243 /* Controller.h */;
+		name = "Controller.h: 6";
+		rLen = 8;
+		rLoc = 123;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 0;
+	};
+	15B95305157A9D1700427014 /* HelloPoly */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloPoly;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	15B95319157A9D3E00427014 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	15B9531A157A9D3E00427014 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D3623240D0F684500981E51 /* HelloPolyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 250}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HelloPolyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 390}}";
+			sepNavSelRange = "{403, 63}";
+			sepNavVisRange = "{0, 206}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HelloPoly */ = {
+		activeExec = 0;
+		executables = (
+			15B95305157A9D1700427014 /* HelloPoly */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 15B95305157A9D1700427014 /* HelloPoly */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HelloPoly */;
+		codeSenseManager = 15B9531A157A9D3E00427014 /* Code sense */;
+		executables = (
+			15B95305157A9D1700427014 /* HelloPoly */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 418003206;
+			PBXWorkspaceStateSaveDate = 418003206;
+		};
+		perUserProjectItems = {
+			152A8D6F18E9F314000A2559 /* PBXTextBookmark */ = 152A8D6F18E9F314000A2559 /* PBXTextBookmark */;
+			154249A618EA3B5700292212 /* PBXTextBookmark */ = 154249A618EA3B5700292212 /* PBXTextBookmark */;
+			154249A718EA3B5700292212 /* PBXTextBookmark */ = 154249A718EA3B5700292212 /* PBXTextBookmark */;
+			154249A818EA3B5700292212 /* PBXTextBookmark */ = 154249A818EA3B5700292212 /* PBXTextBookmark */;
+			15AB0912159136AB006CBC49 /* PBXTextBookmark */ = 15AB0912159136AB006CBC49 /* PBXTextBookmark */;
+			15AB0913159136AB006CBC49 /* PBXTextBookmark */ = 15AB0913159136AB006CBC49 /* PBXTextBookmark */;
+			15AB0914159136AB006CBC49 /* PBXTextBookmark */ = 15AB0914159136AB006CBC49 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 15B95319157A9D3E00427014 /* Source Control */;
+		userBuildSettings = {
+			SYMROOT = /Users/jackr/Documents/build/HelloPoly;
+		};
+	};
+}

@@ -1,0 +1,251 @@
+// !$*UTF8*$!
+{
+	152A8D7918E9F331000A2559 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD707158162580094F89A /* PolygonView.m */;
+		name = "PolygonView.m: 65";
+		rLen = 0;
+		rLoc = 1809;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 1078;
+	};
+	157DD6D015815FEC0094F89A /* HelloPolyII */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloPolyII;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	157DD6DE158160020094F89A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	157DD6DF158160020094F89A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	157DD6FE158161940094F89A /* Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{392, 0}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	157DD6FF158161940094F89A /* Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 994}}";
+			sepNavSelRange = "{1459, 0}";
+			sepNavVisRange = "{1096, 405}";
+		};
+	};
+	157DD701158161AA0094F89A /* PolygonShape.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {714, 1372}}";
+			sepNavSelRange = "{623, 0}";
+			sepNavVisRange = "{126, 559}";
+		};
+	};
+	157DD702158161AA0094F89A /* PolygonShape.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	157DD706158162580094F89A /* PolygonView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{34, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	157DD707158162580094F89A /* PolygonView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 871}}";
+			sepNavSelRange = "{1809, 0}";
+			sepNavVisRange = "{1078, 460}";
+		};
+	};
+	157DD7A0158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD701158161AA0094F89A /* PolygonShape.m */;
+		name = "PolygonShape.m: 23";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 126;
+	};
+	157DD7A1158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD702158161AA0094F89A /* PolygonShape.h */;
+		name = "PolygonShape.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	157DD7A2158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HelloPolyIIAppDelegate.h */;
+		name = "HelloPolyIIAppDelegate.h: 1";
+		rLen = 1;
+		rLoc = 1;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	157DD7A3158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HelloPolyIIAppDelegate.m */;
+		name = "HelloPolyIIAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 234;
+	};
+	157DD7A4158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD6FE158161940094F89A /* Controller.h */;
+		name = "Controller.h: 15";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	157DD7A5158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD6FF158161940094F89A /* Controller.m */;
+		name = "Controller.m: 49";
+		rLen = 0;
+		rLoc = 1459;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 1096;
+	};
+	157DD7A6158166690094F89A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD706158162580094F89A /* PolygonView.h */;
+		name = "PolygonView.h: 3";
+		rLen = 0;
+		rLoc = 34;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	1583A26416C1AD72001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 157DD707158162580094F89A /* PolygonView.m */;
+		name = "PolygonView.m: 65";
+		rLen = 0;
+		rLoc = 1809;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 1078;
+	};
+	1D3623240D0F684500981E51 /* HelloPolyIIAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 308}}";
+			sepNavSelRange = "{1, 1}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HelloPolyIIAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 504}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{234, 497}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HelloPolyII */ = {
+		activeExec = 0;
+		executables = (
+			157DD6D015815FEC0094F89A /* HelloPolyII */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 157DD6D015815FEC0094F89A /* HelloPolyII */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HelloPolyII */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HelloPolyII */,
+		);
+		codeSenseManager = 157DD6DF158160020094F89A /* Code sense */;
+		executables = (
+			157DD6D015815FEC0094F89A /* HelloPolyII */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 417985312;
+			PBXWorkspaceStateSaveDate = 417985312;
+		};
+		perUserProjectItems = {
+			152A8D7918E9F331000A2559 /* PBXTextBookmark */ = 152A8D7918E9F331000A2559 /* PBXTextBookmark */;
+			157DD7A0158166690094F89A /* PBXTextBookmark */ = 157DD7A0158166690094F89A /* PBXTextBookmark */;
+			157DD7A1158166690094F89A /* PBXTextBookmark */ = 157DD7A1158166690094F89A /* PBXTextBookmark */;
+			157DD7A2158166690094F89A /* PBXTextBookmark */ = 157DD7A2158166690094F89A /* PBXTextBookmark */;
+			157DD7A3158166690094F89A /* PBXTextBookmark */ = 157DD7A3158166690094F89A /* PBXTextBookmark */;
+			157DD7A4158166690094F89A /* PBXTextBookmark */ = 157DD7A4158166690094F89A /* PBXTextBookmark */;
+			157DD7A5158166690094F89A /* PBXTextBookmark */ = 157DD7A5158166690094F89A /* PBXTextBookmark */;
+			157DD7A6158166690094F89A /* PBXTextBookmark */ = 157DD7A6158166690094F89A /* PBXTextBookmark */;
+			1583A26416C1AD72001CB82F /* PBXTextBookmark */ = 1583A26416C1AD72001CB82F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 157DD6DE158160020094F89A /* Source Control */;
+		userBuildSettings = {
+			SYMROOT = /Users/jackr/Documents/build/HelloPolyII;
+		};
+	};
+}

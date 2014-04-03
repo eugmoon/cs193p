@@ -1,0 +1,456 @@
+// !$*UTF8*$!
+{
+	152A8DAD18E9F382000A2559 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Paparazzi3AppDelegate.m */;
+		name = "Paparazzi3AppDelegate.m: 67";
+		rLen = 0;
+		rLoc = 3272;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 3858;
+	};
+	152A8DED18EA1461000A2559 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Paparazzi3AppDelegate.m */;
+		name = "Paparazzi3AppDelegate.m: 92";
+		rLen = 0;
+		rLoc = 4212;
+		rType = 0;
+		vrLen = 753;
+		vrLoc = 4114;
+	};
+	1583A1CF16C1AA5D001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1583A1D016C1AA5D001CB82F /* NSObject.h */;
+		name = "NSObject.h: 13";
+		rLen = 19;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 356;
+	};
+	1583A1D016C1AA5D001CB82F /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	1583A1D116C1AA5D001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Paparazzi3AppDelegate.h */;
+		name = "Paparazzi3AppDelegate.h: 9";
+		rLen = 172;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	1583A1D216C1AA5D001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EB71605D72D0077A3AD /* PersonListViewController.m */;
+		name = "PersonListViewController.m: 24";
+		rLen = 52;
+		rLoc = 651;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 309;
+	};
+	1583A1D316C1AA5D001CB82F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EB61605D72D0077A3AD /* PersonListViewController.h */;
+		name = "PersonListViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	15859E891605D2E00077A3AD /* Paparazzi3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Paparazzi3;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	15859E931605D2F50077A3AD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	15859E941605D2F50077A3AD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	15859EA01605D50D0077A3AD /* Photo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 490}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{210, 656}";
+		};
+	};
+	15859EA11605D50D0077A3AD /* Photo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{160, 267}";
+		};
+	};
+	15859EA21605D50D0077A3AD /* Person.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{168, 410}";
+		};
+	};
+	15859EA31605D50D0077A3AD /* Person.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+	15859EAF1605D6F40077A3AD /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 897}";
+		};
+	};
+	15859EB61605D72D0077A3AD /* PersonListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	15859EB71605D72D0077A3AD /* PersonListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1216, 4303}}";
+			sepNavSelRange = "{651, 52}";
+			sepNavVisRange = "{309, 963}";
+		};
+	};
+	15859EBB1605D7540077A3AD /* PhotoDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 490}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 397}";
+		};
+	};
+	15859EC11605D7540077A3AD /* PhotoMapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 294}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	15859EC21605D7540077A3AD /* PhotoMapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 1722}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 569}";
+		};
+	};
+	15859EE01605D79B0077A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EAF1605D6F40077A3AD /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 0;
+	};
+	15859EE21605D79B0077A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EBB1605D7540077A3AD /* PhotoDetailViewController.h */;
+		name = "PhotoDetailViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 0;
+	};
+	15859F281605DA4A0077A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EC21605D7540077A3AD /* PhotoMapViewController.m */;
+		name = "PhotoMapViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 0;
+	};
+	15859F2A1605DA4A0077A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 15859EC11605D7540077A3AD /* PhotoMapViewController.h */;
+		name = "PhotoMapViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* Paparazzi3AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {733, 455}}";
+			sepNavSelRange = "{137, 172}";
+			sepNavVisRange = "{0, 468}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Paparazzi3AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1398, 1885}}";
+			sepNavSelRange = "{4212, 0}";
+			sepNavVisRange = "{4114, 753}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Paparazzi3 */ = {
+		activeExec = 0;
+		executables = (
+			15859E891605D2E00077A3AD /* Paparazzi3 */,
+		);
+	};
+	28C3AD890F43EF2300507BA6 /* Paparazzi3.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						32.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {488, 218}}",
+							"{{493, 0}, {257, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {750, 220}}",
+							"{{0, 225}, {750, 197}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {160, 218}}",
+							"{{165, 0}, {323, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-44, 68}, {735, 182}}";
+			};
+			sepNavWindowFrame = "{{460, 130}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 15859E891605D2E00077A3AD /* Paparazzi3 */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Paparazzi3 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Paparazzi3 */,
+		);
+		codeSenseManager = 15859E941605D2F50077A3AD /* Code sense */;
+		executables = (
+			15859E891605D2E00077A3AD /* Paparazzi3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 417985500;
+			PBXWorkspaceStateSaveDate = 417985500;
+		};
+		perUserProjectItems = {
+			152A8DAD18E9F382000A2559 /* PBXTextBookmark */ = 152A8DAD18E9F382000A2559 /* PBXTextBookmark */;
+			152A8DED18EA1461000A2559 /* PBXTextBookmark */ = 152A8DED18EA1461000A2559 /* PBXTextBookmark */;
+			1583A1CF16C1AA5D001CB82F /* PBXTextBookmark */ = 1583A1CF16C1AA5D001CB82F /* PBXTextBookmark */;
+			1583A1D116C1AA5D001CB82F /* PBXTextBookmark */ = 1583A1D116C1AA5D001CB82F /* PBXTextBookmark */;
+			1583A1D216C1AA5D001CB82F /* PBXTextBookmark */ = 1583A1D216C1AA5D001CB82F /* PBXTextBookmark */;
+			1583A1D316C1AA5D001CB82F /* PBXTextBookmark */ = 1583A1D316C1AA5D001CB82F /* PBXTextBookmark */;
+			15859EE01605D79B0077A3AD /* PBXTextBookmark */ = 15859EE01605D79B0077A3AD /* PBXTextBookmark */;
+			15859EE21605D79B0077A3AD /* PBXTextBookmark */ = 15859EE21605D79B0077A3AD /* PBXTextBookmark */;
+			15859F281605DA4A0077A3AD /* PBXTextBookmark */ = 15859F281605DA4A0077A3AD /* PBXTextBookmark */;
+			15859F2A1605DA4A0077A3AD /* PBXTextBookmark */ = 15859F2A1605DA4A0077A3AD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 15859E931605D2F50077A3AD /* Source Control */;
+		userBuildSettings = {
+			SYMROOT = /Users/jackr/Documents/build/Paparazzi3;
+		};
+	};
+}
